@@ -42,9 +42,8 @@ I previously worked at Benafica where I gained valuable real world expierence wi
 
 ## 📬 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourusername)  
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=flat)](https://yourportfolio.com)  
-- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:youremail@example.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abdou-aljalil-h-088657212) 
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jhammida@gmail.com)
 
 ---
 
