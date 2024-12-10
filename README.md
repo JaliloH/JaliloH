@@ -1,24 +1,23 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **[Your Name]**, a passionate **[Your Profession/Interest, e.g., Software Developer]** with a love for **[Your Areas of Expertise, e.g., Full-Stack Development, AI, and Open Source]**. 🚀  
+Hi there! I'm **Jalilo Hammida**, a recent computer science graduate and passionate **Software Developer** with a love for full-stack and cloud development! 
+I previously worked at Benafica where I gained valuable real world expierence with various languages and frameworks! Now, I'm working on personal projects while actively seeking software development roles. *. 🚀  
 
 ---
 
 ## 🌟 About Me
 
-- 🌱 **Currently learning:** [What you're learning, e.g., Cloud Computing, GraphQL]  
-- 💡 **Exploring:** [What you're exploring, e.g., Machine Learning, Blockchain]  
-- 🎯 **Goals for this year:** [Your goals, e.g., Contribute to open source projects, Learn Rust]  
-- 🧩 **Fun fact:** [A fun fact about yourself, e.g., I can solve a Rubik's Cube in under 2 minutes!]  
+- 🌱 **Currently learning:** [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat), ![SignalR](https://img.shields.io/badge/-SignalR-512BD4?logo=.net&logoColor=white&style=flat), ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=web&logoColor=white&style=flat)]  
+- 💡 **Exploring:** [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat), ![GoLang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)]  
+- 🎯 **Goals for this year:** [Learn Angular, Continue grinding leetcode!]  
+- 🧩 **Fun fact:** [I graduated college at 18—it was a challenging but rewarding journey!]  
 
 ---
 
 ## 🛠️ Skills & Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -34,8 +33,7 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Profession/Interest, e.g., S
 
 ## 🔥 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 ---
 
