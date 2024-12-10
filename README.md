@@ -1,8 +1,9 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Jalilo Hammida**, a recent computer science graduate and passionate **Software Developer** with a love for full-stack and cloud development! 
-I previously worked at Benafica where I gained valuable real world expierence with various languages and frameworks! Now, I'm working on personal projects while actively seeking software development roles. *. 🚀  
-
+<p align="center">
+  Hi there! I'm **Jalilo Hammida**, a recent computer science graduate and passionate **Software Developer** with a love for full-stack and cloud development! 
+  I previously worked at Benafica where I gained valuable real world expierence with various languages and frameworks! Now, I'm working on personal projects while actively seeking software development roles. *. 🚀  
+</p>
 ---
 
 ## 🌟 About Me
@@ -13,6 +14,13 @@ I previously worked at Benafica where I gained valuable real world expierence wi
 - 🧩 **Fun fact:** [I graduated college at 18—it was a challenging but rewarding journey!]  
 
 ---
+## 💻 Current Project (Chatify)
+Chatify is a real time web based chat application where users can communicate via text with as many other users as they would like! Chatify's primary technologies are React/Typescript for the frontend, C#/ASP.NET/SQLite for the backend, and SignalR/Websockets for real time communication between users. I started this project as a means to enhance my skills in both React and .NET while also learning new languages and technolgies that are used in real-world applications.
+** Features: **
+- Secure password hashing and encryption
+- JWT based authentication
+- Notifications
+- Cloud image upload
 
 ## 🛠️ Skills & Tools
 
