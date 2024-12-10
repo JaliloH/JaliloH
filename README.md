@@ -62,10 +62,4 @@ Chatify is a real time web based chat application where users can communicate vi
 
 ---
 
-## 📬 Let's Connect!
-
-
-
----
-
 Thanks for stopping by! 😄✨  
