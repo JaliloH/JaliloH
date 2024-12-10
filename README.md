@@ -1,6 +1,7 @@
-<p align="center">
 
 # 👋 Welcome to My GitHub Profile!
+
+<p align="center">
 
   Hi there! 👋 I'm <strong>Jalilo Hammida</strong>, a recent computer science graduate and passionate <strong>Software Developer</strong> with a love for full-stack and cloud development! 
   I previously worked at Benafica where I gained valuable real world expierence with various languages and frameworks! Now, I'm working on personal projects while actively seeking software development roles. 
