@@ -17,7 +17,7 @@
 ## 💻 Current Project (Chatify)
 Chatify is a real time web based chat application where users can communicate via text with as many other users as they would like! Chatify's primary technologies are React/Typescript for the frontend, C#/ASP.NET/SQLite for the backend, and SignalR/Websockets for real time communication between users. I started this project as a means to enhance my skills in both React and .NET while also learning new languages and technolgies that are used in real-world applications.
 
-## Features:
+# Features:
 - Secure password hashing and encryption
 - JWT based authentication
 - Notifications
