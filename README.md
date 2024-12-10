@@ -4,8 +4,9 @@
   Hi there! 👋 I'm <strong>Jalilo Hammida</strong>, a recent computer science graduate and passionate <strong>Software Developer</strong> with a love for full-stack and cloud development! 
   I previously worked at Benafica where I gained valuable real world expierence with various languages and frameworks! Now, I'm working on personal projects while actively seeking software development roles. 
   Please dont hesistate to connect with me if you'd like to learn more about anything here!  *. 🚀
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abdou-aljalil-h-088657212) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jhammida@gmail.com)
 </p>
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abdou-aljalil-h-088657212) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jhammida@gmail.com)
 
 ---
 
